@@ -1,0 +1,6 @@
+.content{
+    background-image: url('library.jpeg');
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
